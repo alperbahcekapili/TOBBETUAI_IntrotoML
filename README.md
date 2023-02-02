@@ -11,5 +11,7 @@ Okul Dönemindeki Haftalar
 
 3- Decision Trees
 
+https://colab.research.google.com/drive/1A9X_GQZcjxZw24iD7hfLAEbZnJZ_3mFw?usp=sharing
+
 4- Limits of Learning
 
